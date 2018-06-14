@@ -33,6 +33,7 @@ li a:hover {
 div.content {
   margin-left: 30%;
   margin-right: 30%;
+  background-color: white;
 }
 
 div.footer {
