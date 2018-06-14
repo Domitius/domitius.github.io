@@ -6,6 +6,7 @@ body {
  background: linear-gradient(to right, #3fada8, #808080); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
  margin: 0;
  padding: 0;
+ font-family: serif;
 }
 
 ul {
@@ -36,12 +37,16 @@ div.content {
   margin-left: 30%;
   margin-right: 30%;
   background-color: white;
+  box-shadow: 10px 10px 10px grey;
+  border: thin solid grey;
+  padding: 10px;
 }
 
 div.footer {
   clear: both;
   width: 100%;
   background-color: black;
-  height: 350px;
-  align-items: center;
+  height: 50px;
+  text-align: center;
+  color: white;
 }
