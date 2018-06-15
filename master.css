@@ -52,6 +52,10 @@ div.footer {
 }
 
 @media only screen and (max-width: 700px) {
+    body {
+      width: 100%;
+    }
+ 
     div.content {
       width: 100%;
       margin-right: 0%;
