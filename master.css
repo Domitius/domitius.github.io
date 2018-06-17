@@ -90,8 +90,8 @@
   filter: invert(100%);
   box-shadow: 8px 8px 20px gray;
   color: white;
-  width: 250px;
-  height: 300px;
+  width: 260px;
+  height: 200px;
   font-size: 3.4em;
 }
 
@@ -120,8 +120,8 @@
   filter: invert(100%);
   box-shadow: 8px 8px 20px gray;
   color: white;
-  width: 260px;
-  height: 200px;
+  width: 250px;
+  height: 300px;
   font-size: 3.4em;
 }
 
